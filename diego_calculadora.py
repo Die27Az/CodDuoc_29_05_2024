@@ -1,4 +1,4 @@
-
+#agrego descripcion de archivo para probar commit en github
 
 try:  #<-----Inicio excepcion-------------------------------------------------------------------------------------------------
     while True:
